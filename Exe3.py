@@ -5,7 +5,7 @@ while(i<6):
 
     if num1 == mynum:
                      print("Your Won.")
-                     print("You take Number of guess is ", i);
+                     print("You take rrr Number of guess is ", i);
                      break
     elif num1 > mynum:
                       print("Please enter samller number")
