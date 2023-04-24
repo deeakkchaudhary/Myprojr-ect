@@ -4,7 +4,7 @@ num2 = int(input("Enter second number : "))
 val1= str(num1) + oper1 + str(num2)
 list1 = ['+','-','*','/']
 if oper1 not in list1:
-    print("Please enter the valid operator like(+, - ,* ,/)")
+    print("Please enter   ere the valid operator like(+, - ,* ,/)")
 elif val1 == "45*3":
     print("The * of given two number is = 555")
 elif val1 == "56+9":
